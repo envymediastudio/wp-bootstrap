@@ -1,4 +1,4 @@
-wp-bootstrap
+WP Bootstrap
 ============
 
 Bootstrap theme for WordPress
