@@ -4,7 +4,7 @@
  * 
  * @package wpBootStrap
  * 
- * @since wpBootStrap 0.1
+ * @since 0.1
  */
 
 define( 'WBS_VERSION', '0.1' );
